@@ -1,0 +1,6 @@
+projectKey=contact-app
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=contact-app
+ceTaskId=7fb0c87f-30b6-4148-a717-06e7f25c1652
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7fb0c87f-30b6-4148-a717-06e7f25c1652

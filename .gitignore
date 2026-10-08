@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+docs/_build/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+contacts.db
